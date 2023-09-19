@@ -1,6 +1,6 @@
 # Guest Blog Posts Repository
 
-Welcome to the **Guest Blog Posts** repository by [Vishnu Chilamakuru]. In this repository, you'll find a collection of my guest blog posts that I've contributed to various technology websites. These articles cover a range of topics, including Kubernetes, Elastic Search, Redis, System Design, and more.
+Welcome to the **Guest Blog Posts** repository by **Vishnu Chilamakuru**. In this repository, you'll find a collection of my guest blog posts that I've contributed to various technology websites. These articles cover a range of topics, including Kubernetes, Elastic Search, Redis, System Design, and more.
 
 ## Blog Post List
 
